@@ -57,5 +57,5 @@ This deep learning project implements a custom convolutional neural network arch
 2. Install dependencies.
 3. Upload your Kaggle API key (`kaggle.json`) and configure it.
 4. Download and extract the dataset from Kaggle.
-5. Open `PDCOVIDNet-2.ipynb` in Google Colab or Jupyter Notebook.
+5. Open `PDCOVIDNet_2.ipynb` in Google Colab or Jupyter Notebook.
 6. Run all cells to train and evaluate the model.
