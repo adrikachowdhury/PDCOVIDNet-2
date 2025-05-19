@@ -37,8 +37,6 @@ This deep learning project implements a custom convolutional neural network arch
   - Dense(1024) → ReLU → Dropout(0.3)
   - Dense(3) → Output logits (COVID-19, Pneumonia, Normal)
 
----
-
 ## 🛠️ Tools & Libraries
 - PyTorch, Torchvision
 - NumPy
@@ -48,8 +46,6 @@ This deep learning project implements a custom convolutional neural network arch
 - matplotlib
 - Kaggle API
 - WeightedRandomSampler
-
----
 
 ## ⚙️ Setup
 1. Download the repository from GitHub.
