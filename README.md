@@ -1,6 +1,5 @@
 # 🫁 COVID-19 Detection using PDCOVIDNet  
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This deep learning project implements a custom convolutional neural network architecture named **PDCOVIDNet** to detect **COVID-19, viral pneumonia, and normal** chest X-ray images. Developed as part of the **_Computer Vision and Robotics_** course, the project was inspired by the research paper:
 
