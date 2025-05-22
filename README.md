@@ -11,7 +11,7 @@ This deep learning project implements a custom convolutional neural network arch
 
 ## 🚀 Features
 - Custom CNN architecture (PDCOVIDNet) with parallel dilated convolution blocks
-- Binary and multi-class classification of chest X-ray images (COVID-19, Pneumonia, Normal)
+- Multi-class classification of chest X-ray images (COVID-19, Pneumonia, Normal)
 - Handles class imbalance using WeightedRandomSampler and class-weighted loss
 - Image augmentation techniques for robust training (rotation, affine transform, grayscale)
 - Macro-averaged evaluation metrics (Accuracy, Precision, Recall, F1)
