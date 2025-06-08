@@ -48,7 +48,7 @@ This deep learning project implements a custom convolutional neural network arch
 - WeightedRandomSampler
 
 ## ⚙️ Setup
-1. Download the repository from GitHub.
+1. Download/clone the repository from GitHub.
 2. Install dependencies.
 3. Upload your Kaggle API key (`kaggle.json`) and configure it.
 4. Download and extract the dataset from Kaggle.
